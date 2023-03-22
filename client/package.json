@@ -2,6 +2,10 @@
   "name": "J.A.T.E.",
   "version": "1.0.0",
   "description": "Just Another Text Editor P.W.A. App",
+  "engines": {
+    "node": "v18.12.1"
+  },
+  
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",

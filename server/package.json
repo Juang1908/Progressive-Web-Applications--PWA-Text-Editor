@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "Just Another Text Editor P.W.A. App",
     "main": "server.js",
+    "engines": {
+      "node": "v18.12.1"
+    },
     "scripts": {
       "server": "nodemon server.js --ignore client",
       "start": "node server.js"
