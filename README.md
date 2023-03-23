@@ -27,6 +27,8 @@ To create notes or code snippets with or without an internet connection, you can
 ### Screenshot:
 
 ![Heroku](Screenshot%20JATE.jpg)
+![Alt text](Screenshot%202.jpg)
+![Alt text](Screenshot%203.jpg)
 
 ### Usage:
 
